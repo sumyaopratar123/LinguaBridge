@@ -1,4 +1,4 @@
-# Task 1 — Language Translation Tool
+# CodeAlpha_LinguaBridge
 
 A Streamlit interface that accepts text, lets the user choose source/target languages, sends the text to a translation service, displays the translated response, and allows downloading it.
 
